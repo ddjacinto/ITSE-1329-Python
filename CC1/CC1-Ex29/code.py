@@ -1,3 +1,3 @@
 zen_of_python = '     Readability counts     '
-trail = ____________  # Fill in the blank
+trail = zen_of_python[:23]  # Fill in the blank
 print(trail)
