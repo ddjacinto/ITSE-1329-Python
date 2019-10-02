@@ -5,11 +5,11 @@ food = choice(['banana', 'chicken', 'corn', 'baseball'])
 
 
 # YOUR CODE GOES HERE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-if food = 'banana' :
+if food == 'banana': 
     print('Fruit')
-elif food = 'chicken'
+elif food == 'chicken':
     print('Meat')
-elif food = 'corn'
+elif food == 'corn':
     print('Vegetable')
 else :
     print('Could not verify food')
